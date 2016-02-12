@@ -1,0 +1,73 @@
+* {
+	border:0;
+	margin:0;
+	padding:0
+}
+hr {
+	height:2px;
+	margin:10px 0 15px
+}
+img {
+	margin:auto
+}
+ul {
+	padding:20px 0px 0px 20px
+}
+.pole { 
+	background:#EEE;
+	width:1074px;
+	height:100%;
+	margin:auto;
+	padding:5px 
+}
+.list {
+	background:#FFF;
+	width:382px;
+	height:560px;
+	margin:5px auto 35px auto
+}
+.content {
+	font:14px/20px "Times New Roman", Times, serif;
+	padding:10%;
+}
+.whois {
+	text-align:center
+}
+.fio {
+	font:bold 16px "Times New Roman", Times, serif
+}
+.fotonik {
+	line-height:100px;
+	margin:15px 0px 10px
+}
+.fotonik>img {
+	vertical-align:middle
+} 
+.motiv, .kontakt, .fid {
+	margin-left:10px
+}
+.kontakt>p {
+	margin:10px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
